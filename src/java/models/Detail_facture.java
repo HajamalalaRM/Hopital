@@ -12,6 +12,7 @@ import util.Connexion;
  *
  * @author Haja
  */
+//essai
 public class Detail_facture {
     Integer iddetail;
     Integer idfacture;
